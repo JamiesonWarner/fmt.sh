@@ -16,6 +16,20 @@ $ px aux | grep nobody | fmt
        tables line up
        nicely neat
 
+# or even
+
+$ ps aux | grep nobody | fmt
+
+       ------------------------------------------------
+       |           | no              | way            |
+       ------------------------------------------------
+       | they      | said            | it             |
+       ------------------------------------------------
+       | couldn't  | be              | done           |
+       ------------------------------------------------
+
+# ascii tables lol
+
 ```
 
 
